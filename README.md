@@ -3,7 +3,7 @@
 <h1 align="center">Hey there👋, Vishwas Dubey</h1>
 <h3 align="center">Android and Web Developer</h3>
 
-img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC/fullscreen"
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC/fullscreen">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwasdubey150&label=Profile%20views&color=0e75b6&style=flat" alt="vishwasdubey150" /> </p>
 

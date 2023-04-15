@@ -1,4 +1,4 @@
-[![MasterHead](https://www.digitaland.tv/wp-content/uploads/2016/03/banner_developer-.jpg)](https://VishwasDubey150.io)
+[![MasterHead](https://www.linkedin.com/in/vishwas-dubey-86083b220/overlay/background-image/.jpg)](https://VishwasDubey150.io)
 
 <h1 align="center">Hey there👋, Vishwas Dubey</h1>
 <h3 align="center">Android and Web Developer</h3>

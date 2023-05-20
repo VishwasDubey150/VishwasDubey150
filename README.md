@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey, Vishwas Dubey here</h1>
+<h1 align="center">Hey, Vishwas here</h1>
 <h3 align="center">Android and Web Developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC/fullscreen.gif">
